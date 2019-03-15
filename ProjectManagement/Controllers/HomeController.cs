@@ -10,6 +10,7 @@ namespace ProjectManagement.Controllers
     {
         public ActionResult Index()
         {
+            var a = "";
             return View();
         }
 
